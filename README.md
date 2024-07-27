@@ -1,2 +1,2 @@
 # Blog-App
-A lightweight blog app with html and tailwind css only
+A Responsive Design of simple blog app with html and tailwind css only
